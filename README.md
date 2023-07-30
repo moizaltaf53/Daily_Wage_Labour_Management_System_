@@ -1,1 +1,1 @@
-# Daily_Wage_Labour_Management_System_
+# Daily_Wage_Labour_Management_System
